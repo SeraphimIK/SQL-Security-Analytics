@@ -21,10 +21,8 @@ SQL-Security-Analytics/
 │   ├── 02_brute_force_detection_cte.sql # CTE (WITH clause), self-join
 │   ├── 03_incident_metrics_view.sql     # CREATE VIEW, date math
 │   └── 04_executive_summary_aggregation.sql  # Multi-metric KPI rollup
-├── reports/
-│   └── sample_output.md           # Captured output + interpretation
-├── docs/
-└── screenshots/
+└── reports/
+    └── sample_output.md           # Captured output + interpretation
 ```
 
 ## Why SQLite
